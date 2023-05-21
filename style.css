@@ -1,0 +1,23 @@
+.navbar-brand{
+	font-size: 45px;
+	border: solid black 2px;
+}
+
+.milk:hover{
+	color: #C64B4B;
+}
+
+.jojo-img{
+height: 500px;
+width: 850px;
+}
+
+.kok-org{
+	display: flex;
+}
+
+
+.kok{
+	margin: 10px;
+	height: 200px;
+}
